@@ -26,3 +26,4 @@ A modern React website for Oppidan India Sportz Academy built with Vite, Tailwin
 - `src/components/ui/` - UI components
 - `src/styles/` - Global styles
 - `public/` - Static assets
+for educational purpose only;
